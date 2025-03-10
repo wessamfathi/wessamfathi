@@ -54,7 +54,7 @@ Research and experimentation with Rust-based ECS for game development and real-t
 
 ## How to Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/wessamfathi) (You are here)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/wessamfathi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wessamfathi/)
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=firefox)](https://wessam.dev)
 
