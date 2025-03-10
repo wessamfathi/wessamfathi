@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 # Wessam Ibrahim
 
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-Black?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-red?style=for-the-badge&logo=vulkan&logoColor=white)
+
 ## About Me
 
 Technical Director with extensive experience in **AAA game development, AI-driven systems, and real-time rendering**. Passionate about **game optimization, procedural content generation, and high-performance computing**. Adept at leading **engineering teams, scaling technology stacks, and aligning technical strategy with business goals**.
@@ -46,12 +54,11 @@ Research and experimentation with Rust-based ECS for game development and real-t
 
 ## How to Reach Me
 
-- **Website:** [wessam.dev](https://wessam.dev)
-- **GitHub:** [github.com/wessamfathi](https://github.com/wessamfathi) (You are here)
-- **LinkedIn:** [linkedin.com/in/wessamfathi](https://linkedin.com/in/wessamfathi)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/wessamfathi) (You are here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wessamfathi/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=firefox)](https://wessam.dev)
 
 ## Contributions & Engagement
 
 - Engaging in **game engine development, optimization, and AI research**.
 - Open to **collaborations on open-source projects** related to game development and AI.
-
