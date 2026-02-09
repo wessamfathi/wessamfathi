@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-Black?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-blue)
 
 ## About Me
 
